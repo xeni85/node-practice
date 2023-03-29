@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "days-of-week.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeni85/node-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xeni85/node-practice/issues"
+  },
+  "homepage": "https://github.com/xeni85/node-practice#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
